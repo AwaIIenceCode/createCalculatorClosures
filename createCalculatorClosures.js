@@ -26,7 +26,7 @@ function createCalculator(userNumber)
             return this;
         },
 
-        getResult: function(value)
+        getResult: function()
         {
             return userNumber;
         }
